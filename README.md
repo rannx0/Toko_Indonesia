@@ -18,7 +18,7 @@ Proyek ini dibuat untuk melaksanakan Uji Kompetensi Keahlian yang diselenggaraka
 ## Instalasi
 1. **Clone Repository**
    ```sh
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/rannx0/Toko_Indonesia.git
    cd repository
    ```
 2. **Install Dependensi**
